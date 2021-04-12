@@ -25,6 +25,7 @@ public class BotonMina extends JButton {
 	private Estado estado = Estado.BOTON;
 	private int fil, col;
 	
+	private int modificacion_github = 0;
 
 	/**
 	 * Constructor de un BotonMina
